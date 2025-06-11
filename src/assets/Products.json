@@ -1,0 +1,245 @@
+
+    [
+    {
+      "id": "p001",
+      "name": "Wireless Bluetooth Headphones",
+      "description": "Experience high fidelity sound with these wireless Bluetooth headphones.",
+      "price": 59.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/101/400/300"
+    },
+    {
+      "id": "p002",
+      "name": "Smart Fitness Tracker",
+      "description": "Track your health and activity with this sleek fitness tracker.",
+      "price": 39.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/102/400/300"
+    },
+    {
+      "id": "p003",
+      "name": "Portable Bluetooth Speaker",
+      "description": "Compact speaker with powerful sound and long battery life.",
+      "price": 29.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/103/400/300"
+    },
+    {
+      "id": "p004",
+      "name": "4K UHD Smart TV",
+      "description": "Enjoy crystal clear visuals on this 55-inch 4K UHD smart TV.",
+      "price": 499.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/104/400/300"
+    },
+    {
+      "id": "p005",
+      "name": "Wireless Charging Pad",
+      "description": "Charge your Qi-enabled devices wirelessly with this sleek pad.",
+      "price": 19.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/104/400/300"
+    },
+    {
+      "id": "p006",
+      "name": "Digital DSLR Camera",
+      "description": "Capture stunning photos with this 24MP DSLR camera.",
+      "price": 799.00,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/106/400/300"
+    },
+    {
+      "id": "p007",
+      "name": "Gaming Mechanical Keyboard",
+      "description": "RGB mechanical keyboard designed for gamers and typists.",
+      "price": 89.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/107/400/300"
+    },
+    {
+      "id": "p008",
+      "name": "Smart Home Voice Assistant",
+      "description": "Control smart home devices easily with this voice assistant.",
+      "price": 49.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/108/400/300"
+    },
+    {
+      "id": "p009",
+      "name": "Electric Standing Desk",
+      "description": "Ergonomic adjustable height standing desk for your office.",
+      "price": 299.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/109/400/300"
+    },
+    {
+      "id": "p010",
+      "name": "Noise Canceling Earbuds",
+      "description": "Compact earbuds with active noise cancellation technology.",
+      "price": 69.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/110/400/300"
+    },
+    {
+      "id": "p011",
+      "name": "Smart LED Light Bulbs",
+      "description": "Colorful and dimmable smart LED bulbs to customize your lighting.",
+      "price": 24.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/111/400/300"
+    },
+    {
+      "id": "p012",
+      "name": "Portable Power Bank",
+      "description": "High capacity 20000mAh power bank for charging on the go.",
+      "price": 34.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/112/400/300"
+    },
+    {
+      "id": "p013",
+      "name": "Smart Watch",
+      "description": "Stay connected with this waterproof smart watch.",
+      "price": 129.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/113/400/300"
+    },
+    {
+      "id": "p014",
+      "name": "Wireless Home Security Camera",
+      "description": "Keep your home secure with this wireless HD security camera.",
+      "price": 89.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/114/400/300"
+    },
+    {
+      "id": "p015",
+      "name": "Robot Vacuum Cleaner",
+      "description": "Smart robot vacuum cleaner with automatic navigation and scheduling.",
+      "price": 249.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/115/400/300"
+    },
+    {
+      "id": "p016",
+      "name": "Electric Kettle",
+      "description": "Fast boiling electric kettle with automatic shut-off.",
+      "price": 29.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/116/400/300"
+    },
+    {
+      "id": "p017",
+      "name": "Fitness Dumbbell Set",
+      "description": "Adjustable dumbbells perfect for home workouts.",
+      "price": 49.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/117/400/300"
+    },
+    {
+      "id": "p018",
+      "name": "Smartphone Gimbal Stabilizer",
+      "description": "Capture smooth videos with this 3-axis stabilizer.",
+      "price": 119.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/118/400/300"
+    },
+    {
+      "id": "p019",
+      "name": "Noise Reduction Headphones",
+      "description": "Over-ear headphones with active noise reduction.",
+      "price": 79.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/119/400/300"
+    },
+    {
+      "id": "p020",
+      "name": "Mechanical Gaming Mouse",
+      "description": "Ergonomic gaming mouse with customizable buttons.",
+      "price": 49.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/120/400/300"
+    },
+    {
+      "id": "p021",
+      "name": "Smart Thermostat",
+      "description": "Save energy with this smart thermostat for HVAC control.",
+      "price": 149.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/121/400/300"
+    },
+    {
+      "id": "p022",
+      "name": "Wireless Charging Desk Lamp",
+      "description": "LED desk lamp with wireless charging pad and adjustable brightness.",
+      "price": 59.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/122/400/300"
+    },
+    {
+      "id": "p023",
+      "name": "Smart Door Lock",
+      "description": "Keyless smart door lock with remote access and fingerprint sensor.",
+      "price": 199.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/123/400/300"
+    },
+    {
+      "id": "p024",
+      "name": "Electric Toothbrush",
+      "description": "Rechargeable electric toothbrush with multiple cleaning modes.",
+      "price": 39.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/124/400/300"
+    },
+    {
+      "id": "p025",
+      "name": "Smart Water Bottle",
+      "description": "Hydration reminder water bottle with temperature display.",
+      "price": 24.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/125/400/300"
+    },
+    {
+      "id": "p026",
+      "name": "Wireless Earbuds Charging Case",
+      "description": "Portable charging case compatible with many wireless earbuds.",
+      "price": 29.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/126/400/300"
+    },
+    {
+      "id": "p027",
+      "name": "Laptop Cooling Pad",
+      "description": "Efficient cooling pad with adjustable fan speed for laptops.",
+      "price": 19.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/127/400/300"
+    },
+    {
+      "id": "p028",
+      "name": "Bluetooth Car Adapter",
+      "description": "Turn your car stereo into a Bluetooth music player.",
+      "price": 14.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/128/400/300"
+    },
+    {
+      "id": "p029",
+      "name": "Smartphone Screen Protector",
+      "description": "Tempered glass screen protector with scratch resistance.",
+      "price": 9.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/129/400/300"
+    },
+    {
+      "id": "p030",
+      "name": "Digital Kitchen Scale",
+      "description": "Accurate kitchen scale with tare function and LCD display.",
+      "price": 19.99,
+      "currency": "USD",
+      "image": "https://picsum.photos/id/130/400/300"
+    }
+  
+  ]
+
